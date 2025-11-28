@@ -7,24 +7,24 @@ export default function Projects() {
   const projects = [
     {
       title: "Personal Portfolio",
-      desc: "Modern animated portfolio with glassmorphism & smooth animations",
-      tags: ["Next.js", "Tailwind", "Framer Motion"],
-      live: "https://your-portfolio.com",
-      image: "/projects/portfolio.jpg",
+      desc: "Modern IT solutions company with sleek design, smooth animations, and a professional digital presence",
+      tags: ["Php", "Bootstrap", "Framer Motion"],
+      live: "https://appworldinfotech.com/index.php",
+      image: "/img/appworldinfotech.com_index.php.png",
     },
     {
       title: "E-Commerce Store",
-      desc: "Fully responsive online store with cart & payment integration",
+      desc: "AI chat tool for marketing, content creation & image generation",
       tags: ["React", "Node.js", "MongoDB"],
-      live: "https://shopdemo.com",
-      image: "/projects/ecom.jpg",
+      live: "#",
+      image: "/img/artificial_intelligence_ai_web.jpg",
     },
     {
       title: "Task Manager App",
-      desc: "Beautiful productivity app with drag & drop functionality",
-      tags: ["Next.js", "Prisma", "TypeScript"],
-      live: "https://taskapp.com",
-      image: "/projects/task.jpg",
+      desc: "Online learning platform with 2000+ courses & AI scholars",
+      tags: ["Next.js", "Tailwind css"],
+      live: "#",
+      image: "/img/great_university.jpg",
     },
     
   ];

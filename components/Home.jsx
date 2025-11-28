@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 export default function Home() {
   const headingWords = ["Hi,", "I", "’m", "Kaushik"];
-  const secheadingWords = ["an,", "Web", "Designer"];
+  const secheadingWords = ["An", "Web", "Designer"];
 
   const container = {
     hidden: { opacity: 0 },
