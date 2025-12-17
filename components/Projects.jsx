@@ -13,11 +13,11 @@ export default function Projects() {
       image: "/img/appworldinfotech.com_index.php.png",
     },
     {
-      title: "E-Commerce Store",
-      desc: "AI chat tool for marketing, content creation & image generation",
-      tags: ["React", "Node.js", "MongoDB"],
-      live: "#",
-      image: "/img/artificial_intelligence_ai_web.jpg",
+      title: "Restaurant Landing Page",
+      desc: "Modern dark-themed restaurant website design focused on usability and visuals",
+      tags: ["Figma", "Practice Project / Concept UI Design"],
+      live: "https://www.figma.com/design/gIZtYkxXYS5GoXXQtl75Tk/kp?node-id=0-1&t=YDFiLgH49Zsz1bmt-1",
+      image: "/img/resto.png",
     },
     {
       title: "Task Manager App",
@@ -76,7 +76,7 @@ export default function Projects() {
                     height={400}
                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                   />
-                  <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
+                  <div className="absolute top-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
 
                   {/* Live Badge */}
                   <div className="absolute top-4 right-4 bg-green-500 text-black px-3 py-1 rounded-full text-xs font-bold">
