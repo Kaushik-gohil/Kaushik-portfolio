@@ -65,7 +65,7 @@ export default function Contact() {
               >
                 <HiPhone className="w-8 h-8 text-cyan-400 group-hover:scale-125 transition" />
                 <span className="text-gray-200 group-hover:text-cyan-300 transition">
-                  +91 70964 27856
+                  +91 7096642156
                 </span>
               </motion.a>
 
